@@ -4,15 +4,15 @@ This project demonstrates my SQL skills through an exploratory data analysis (ED
 
 
 Skills Demonstrated:
--Complex SQL queries and subqueries
--Aggregate functions (COUNT, SUM, AVG, etc.)
--Window functions (RANK, DENSE_RANK)
--Data cleaning and null analysis
--Joins across multiple tables
--CTEs (Common Table Expressions)
-=Case statements and conditional logic
-=Text pattern matching (LIKE, UPPER)
-=Time-based filtering (year/month/date)
+- Complex SQL queries and subqueries
+- Aggregate functions (COUNT, SUM, AVG, etc.)
+- Window functions (RANK, DENSE_RANK)
+- Data cleaning and null analysis
+- Joins across multiple tables
+- CTEs (Common Table Expressions)
+- Case statements and conditional logic
+- Text pattern matching (LIKE, UPPER)
+- Time-based filtering (year/month/date)
 
 Sample Insights
 
