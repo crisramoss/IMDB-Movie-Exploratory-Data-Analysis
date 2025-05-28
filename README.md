@@ -1,0 +1,1 @@
+This project demonstrates my SQL skills through an exploratory data analysis (EDA) of a movie dataset using MySQL. The dataset contains information about movies, genres, ratings, cast, production companies, and more. I explored a variety of business-relevant questions to derive insights and assess data quality.
